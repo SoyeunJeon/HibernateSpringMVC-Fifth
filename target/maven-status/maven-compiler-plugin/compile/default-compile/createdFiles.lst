@@ -1,0 +1,5 @@
+service\StudentService.class
+config\WebAppInitializer.class
+model\Student.class
+config\AppConfig.class
+controller\StudentController.class
